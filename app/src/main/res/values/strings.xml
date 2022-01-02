@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyClientSensorMap</string>
+    <string name="title_activity_maps">MapClient</string>
+</resources>
